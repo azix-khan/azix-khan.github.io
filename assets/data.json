@@ -1,0 +1,158 @@
+{
+    "name": "Aziz Ur Rahman",
+    "email": "azixkhan.55@gmail.com",
+    "subtitles": [
+        "Flutter Developer",
+        "A Friend :)",
+        "UI/UX Designer"
+    ],
+    "blackWhitePhotoURL": "https://drive.google.com/file/d/1tnO1sV9pVi22naMlBUcWZdNrbQOjGezI/view?usp=sharing",
+    "coloredPhotoURL": "https://drive.google.com/file/d/1Mt2KBorHWjmd--9DwJX8Ac7WDORzqiBc/view?usp=sharing",
+    "socialLinks": [
+        {
+            "platform": "facebook",
+            "url": "https://facebook.com/azixkhan55"
+        },
+        {
+            "platform": "instagram",
+            "url": "https://instagram.com/azix_khan"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/azix_khan1"
+        },
+        {
+            "platform": "linkedin",
+            "url": "https://www.linkedin.com/in/azixkhan"
+        },
+        {
+            "platform": "github",
+            "url": "https://github.com/azix-khan"
+        },
+        {
+            "platform": "fiverr",
+            "url": "https://fiverr.com/azix_khan"
+        }
+    ],
+    "aboutMeHeadline": "I'm Aziz Ur Rahman, a Flutter developer and UI/UX Designer.",
+    "aboueMeDetails": "A Highly motivated Software Engineering student with a passion for mobile app development using Flutter and Dart. Proficient in object-oriented programming and data structures. Passionate about creating efficient and innovative solutions to meet user needs. Committed to delivering high-quality projects and continuously learning and adapting new technologies. I have been developing mobile apps for over 6 months now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Currently working as junior flutter developer at ExtendZtech.",
+    "technologies": [
+        "Flutter",
+        "Dart",
+        "Python",
+        "GitHub",
+        "C++"
+    ],
+    "services": [
+        {
+            "icon": "assets/services/app.png",
+            "name": "Mobile App Development",
+            "description": "Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!"
+        },
+        {
+            "icon": "assets/services/ui.png",
+            "name": "UI/UX to Life",
+            "description": "Modern UI to life\n- Figma\n- Mobile & Web designs\n- Interactive UI designs\n- Responsiveness\n- Promo Videos and more..!"
+        },
+        {
+            "icon": "assets/services/rapid.png",
+            "name": "Rapid Prototyping",
+            "description": "Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype"
+        },
+        {
+            "icon": "assets/services/ios-desktop.png",
+            "name": "iOS and Desktop Development",
+            "description": "iOS and Desktop Development\n- UI/UX\n- Cross-platform\n- App Store\n- Multiple desktop devices and many more..!"
+        },
+        {
+            "icon": "assets/services/open.png",
+            "name": "Open Source - GitHub",
+            "description": "Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"
+        }
+    ],
+    "hireMe": {
+        "whatsapp": "923189065233"
+    },
+    "projects": [
+        {
+            "title": "News App",
+            "iconUrl": "https://drive.google.com/file/d/18WZxX8xIhpDwX3Cw63FBa5ujXg93C7tL/view?usp=sharing",
+            "bannerUrl": "assets/projects/newsappB.png",
+            "description": "A daily news app in your hands, anytime, anywhere."
+        },
+        {
+            "title": "Linkedin Clone",
+            "iconUrl": "https://drive.google.com/file/d/1rkIVpexhzCrJ31-FubAMc3yxKaAK33aI/view?usp=sharing",
+            "bannerUrl": "assets/projects/linkedinB.png",
+            "description": "Tried to clone the famous LinkedIn app featuring a user-friendly interface and responsive design for enhanced professional networking experiences."
+        },
+        {
+            "title": "To-Do App",
+            "iconUrl": "https://drive.google.com/file/d/1aK88d5113S-qeRKYWv1XBlvymiyBT87s/view?usp=sharing",
+            "bannerUrl": "assets/projects/todoappB.png",
+            "description": "An application where you can securely sign up and log in with your own account. Effortlessly create, update, and delete tasks. Seamlessly search for your tasks, ensuring a smooth and intuitive user experience."
+        },
+        {
+            "title": "My Tasks App",
+            "iconUrl": "assets/projects/mytasks.png",
+            "bannerUrl": "assets/projects/mytasksB.png",
+            "description": "My Tasks is a task manager app that authenticates you and efficiently manages your tasks using Firebase. Enjoy a beautiful design and dark mode for a delightful user experience."
+        },
+        {
+            "title": "COIVD 19 - Tracker",
+            "iconUrl": "assets/projects/covid.png",
+            "bannerUrl": "assets/projects/covidB.png",
+            "description": "A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live."
+        },
+        {
+            "title": "Multi Role App (Admin, Teacer and Student)",
+            "iconUrl": "assets/projects/multiroleapp.png",
+            "bannerUrl": "",
+            "description": "An app featuring a Sign-up UI with Splash Screen, designed for practice. Explore a multi-role interface seamlessly managing admin, teacher, and student roles simultaneously for a comprehensive user experience."
+        },
+        {
+            "title": "Self Evalution",
+            "iconUrl": "assets/projects/selfevalution.png",
+            "bannerUrl": "",
+            "description": "SELF-EVALUATION is an app I designed to streamline your self-assessment journey, offering secure authentication and real-time data interaction powered by Firebase. Experience an intuitive interface that enhances your personal growth and development with seamless ease."
+        },
+        {
+            "title": "Threads UI",
+            "iconUrl": "assets/projects/threads.png",
+            "bannerUrl": "",
+            "description": "An amazing Ui of threads App developed using Flutter. Having functionality of different assets."
+        },
+        {
+            "title": "Easy Transfer",
+            "iconUrl": "assets/projects/easytransfer.png",
+            "bannerUrl": "",
+            "description": "A user-friendly UI designed for seamless money transfers. Simplify your transactions with an intuitive interface, ensuring speedy and hassle-free financial exchanges."
+        },
+        {
+            "title": "SignUP & SignIn",
+            "iconUrl": "assets/projects/signup.png",
+            "bannerUrl": "",
+            "description": "A concept app for Sign Up and Sign In UI connected with api's."
+        },
+        {
+            "title": "Euro Wings",
+            "iconUrl": "assets/services/eurowings.png",
+            "bannerUrl": "",
+            "description": "It's my resturent appication, web app and desktop application also. A food ordering app, the whole design I developed here is an inspiration for me."
+        }
+    ],
+    "contact": [
+        {
+            "param": "address",
+            "value": "Charsadda, Pakistan"
+        },
+        {
+            "param": "phone",
+            "value": "+92 318 9065233"
+        },
+        {
+            "param": "email",
+            "value": "azixkhan.55@gmail.com"
+        }
+    ]
+}
