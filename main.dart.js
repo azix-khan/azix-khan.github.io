@@ -1033,7 +1033,7 @@ s.V4()
 return s},
 ay7(a){return new A.Y0($.ak,a)},
 aky(){var s,r,q,p,o=v.G,n=o.window,m=A.axP(n.navigator)
-if(m==null||m.length===0)return B.mf
+if(m==null||m.length===0)return B.me
 s=A.c([],t.ss)
 for(n=m.length,r=0;r<m.length;m.length===n||(0,A.z)(m),++r){q=m[r]
 p=new o.Intl.Locale(q)
@@ -11026,7 +11026,7 @@ aos(a,b,c){if(b!=null&&!b.i(0,B.w))return A.ao0(b.bL(A.ay3(c)),a)
 return a},
 ay3(a){var s,r,q,p,o,n
 if(a<0)return 0
-for(s=0;r=B.mi[s],q=r.a,a>=q;){if(a===q||s+1===6)return r.b;++s}p=B.mi[s-1]
+for(s=0;r=B.mh[s],q=r.a,a>=q;){if(a===q||s+1===6)return r.b;++s}p=B.mh[s-1]
 o=p.a
 n=p.b
 return n+(a-o)/(q-o)*(r.b-n)},
@@ -38136,16 +38136,16 @@ A.EO.prototype={
 I(a){var s,r,q=null,p=A.yQ(1,1),o=$.dl
 o.toString
 s=$.by
-r=new A.eF(B.md,t.tm)
+r=new A.eF(B.mc,t.tm)
 return A.bQ(q,A.co(A.c([B.lm,B.lq,o,A.rK(B.cq,r.gd1(r).cJ(0,new A.Ws(),t.a7).cu(0),B.fP,s*10*0.77+10,0)],t.p),B.u,q,B.o,B.r),B.n,q,q,q,q,q,q,p,q,q,q)}}
 A.Ws.prototype={
-$1(a){var s=null,r=a.a,q=B.mg[r]
+$1(a){var s=null,r=a.a,q=B.mf[r]
 return new A.oN(A.xA(s,B.mm[r],s,a.b,s,q),s)},
 $S:312}
 A.EP.prototype={
 I(a){return A.co(A.c([B.lm,B.lq,A.VC(new A.Wt(),3,A.VB(!0,B.ba,B.b7,B.eN,!1,!0,$.by*90*0.77+90,0.8))],t.p),B.u,null,B.o,B.r)}}
 A.Wt.prototype={
-$3(a,b,c){var s=null,r=B.md[c],q=B.mg[c]
+$3(a,b,c){var s=null,r=B.mc[c],q=B.mf[c]
 return new A.bH(B.lD,A.xA(s,B.mm[c],s,r,s,q),s)},
 $S:58}
 A.FN.prototype={
@@ -38239,16 +38239,16 @@ r=$.Ko
 r.toString
 return A.bQ(q,A.co(A.c([B.ln,B.lp,s,r],t.p),B.u,q,B.o,B.r),B.n,q,q,q,q,q,q,p,q,q,q)}}
 A.abh.prototype={
-$1(a){var s=a.a,r=B.mj[s],q=B.mc[s],p=B.m9[s]
-return A.xA(a.b,B.mh[s],r,null,q,p)},
+$1(a){var s=a.a,r=B.mi[s],q=B.ml[s],p=B.m9[s]
+return A.xA(a.b,B.mg[s],r,null,q,p)},
 $S:171}
 A.DU.prototype={
 I(a){var s=A.VC(new A.UP(),10,A.VB(!0,B.ba,B.b7,B.eN,!1,!0,A.aP(a,null,t.w).w.a.b*0.4,0.8)),r=$.dl
 r.toString
 return A.co(A.c([B.ln,B.lp,s,r],t.p),B.u,null,B.o,B.r)}}
 A.UP.prototype={
-$3(a,b,c){var s=B.mj[c],r=B.mc[c],q=B.m9[c]
-return new A.bH(B.lE,A.xA(null,B.mh[c],s,null,r,q),null)},
+$3(a,b,c){var s=B.mi[c],r=B.ml[c],q=B.m9[c]
+return new A.bH(B.lE,A.xA(null,B.mg[c],s,null,r,q),null)},
 $S:58}
 A.nI.prototype={
 aj(){return new A.Og()}}
@@ -38342,7 +38342,7 @@ $S:316}
 A.Ow.prototype={
 I(a){var s=null,r=A.em(a,!0,t.W),q=A.em(a,!0,t.At),p=r.a===B.ai,o=p?B.bB:B.h,n=$.br.a
 p=A.c([B.Af,B.lw,A.apk(A.l8(B.CM,n,s,s),B.PA,A.aqE(n,B.dN,new A.aeZ(r),p)),B.lw],t.p)
-n=new A.eF(B.me,t.ly)
+n=new A.eF(B.md,t.ly)
 B.b.L(p,n.gd1(n).cJ(0,new A.af_(q,a),t.l7))
 n=$.br.a
 p.push(new A.bH(B.eP,A.nK(B.DL,s,s,s,A.ao(150,n.u()>>>16&255,n.u()>>>8&255,n.u()&255),new A.af0(),new A.cA(A.dY(5),new A.bu($.br.a,1,B.D,-1)),s),s))
@@ -38372,7 +38372,7 @@ A.OF.prototype={
 I(a){var s,r,q,p=null,o=A.em(a,!0,t.W),n=A.yQ(0.5,p),m=o.a===B.ai?B.k:B.h,l=$.als
 l.toString
 l=A.c([B.j_,l],t.p)
-s=new A.eF(B.me,t.ly)
+s=new A.eF(B.md,t.ly)
 B.b.L(l,s.gd1(s).cJ(0,new A.af9(),t.l7))
 s=$.br.a
 s=A.ao(150,s.u()>>>16&255,s.u()>>>8&255,s.u()&255)
@@ -38467,7 +38467,7 @@ q=new A.eF(B.iD,t.ly)
 return A.bQ(p,A.co(A.c([B.ll,B.lr,r,A.rK(B.cq,q.gd1(q).cJ(0,new A.a8n(),t.m1).cu(0),B.eb,n.a.b*0.05,o.a.a*0.05)],t.p),B.u,p,B.o,B.r),B.n,p,p,p,p,p,p,new A.aF(s,0,s,0),p,p,p)}}
 A.a8n.prototype={
 $1(a){var s=a.a
-return new A.ks(B.iD[s],B.mk[s],B.ml[s],null)},
+return new A.ks(B.iD[s],B.mj[s],B.mk[s],null)},
 $S:320}
 A.JX.prototype={
 I(a){var s=t.w,r=A.aP(a,null,s).w
@@ -38476,7 +38476,7 @@ s=$.dl
 s.toString
 return A.co(A.c([B.ll,B.lr,s,A.VC(new A.a8o(),5,A.VB(!0,B.ba,B.b7,B.eN,!1,!0,r.a.b*0.4,0.65))],t.p),B.u,null,B.o,B.r)}}
 A.a8o.prototype={
-$3(a,b,c){return new A.bH(B.lD,new A.ks(B.iD[c],B.mk[c],B.ml[c],null),null)},
+$3(a,b,c){return new A.bH(B.lD,new A.ks(B.iD[c],B.mj[c],B.mk[c],null),null)},
 $S:58}
 A.ks.prototype={
 aj(){return new A.QY(new A.bs(null,t.Fa))}}
@@ -42342,7 +42342,7 @@ r=n.r
 n=n.cx
 q=p.ga0l()
 p.a.toString
-return new A.zD(o,o,o,new A.aeA(),o,o,o,o,o,o,m,o,o,r,B.Fj,p.ga0s(),n,o,B.Np,s,o,q,o,o,B.mf,!1,!1,o,o,o,new A.nl(p,t.bT))},
+return new A.zD(o,o,o,new A.aeA(),o,o,o,o,o,o,m,o,o,r,B.Fj,p.ga0s(),n,o,B.Np,s,o,q,o,o,B.me,!1,!1,o,o,o,new A.nl(p,t.bT))},
 I(a){var s,r=null,q=A.q6(!1,!1,this.Wa(a),r,r,r,r,!0,r,r,r,new A.aeB(),r,r)
 this.a.toString
 s=this.d
@@ -76406,31 +76406,30 @@ B.m9=s(["Maintenance App","ChiroSimple","WalkTG","Trade X","Bata Shoe Franchise 
 B.EC=s(["assets/work/ttt.jpg","assets/work/freelancer.png","assets/work/autop.png","assets/work/extendztech.jpg"],t.s)
 B.ma=s(["https://github.com/azix-khan/news-app","https://github.com/azix-khan/linkedin-clone","https://github.com/azix-khan/todo_app","https://github.com/azix-khan/mytasks","https://github.com/azix-khan/covid-19","https://github.com/azix-khan/multi_role_app ","https://github.com/azix-khan/self-evalution ","https://github.com/azix-khan/threads_app_ui ","https://github.com/azix-khan/easy_transfer ","https://github.com/azix-khan/Sign_Up",u.g],t.s)
 B.mb=s(["A daily news app in your hands, anytime, anywhere.","Tried to clone the famous LinkedIn app featuring a user-friendly interface and responsive design for enhanced professional networking experiences.","An application where you can securely sign up and log in with your own account. Effortlessly create, update, and delete tasks. Seamlessly search for your tasks, ensuring a smooth and intuitive user experience.","My Tasks is a task manager app that authenticates you and efficiently manages your tasks using Firebase. Enjoy a beautiful design and dark mode for a delightful user experience.","A live trakcer for COVID19 stats across the Globe and my Home country Pakistan. It uses APIs so the data is live.","An app featuring a Sign-up UI with Splash Screen, designed for practice. Explore a multi-role interface seamlessly managing admin, teacher, and student roles simultaneously for a comprehensive user experience.","SELF-EVALUATION is an app I designed to streamline your self-assessment journey, offering secure authentication and real-time data interaction powered by Firebase. Experience an intuitive interface that enhances your personal growth and development with seamless ease.","An amazing Ui of threads App developed using Flutter. Having functionality of different assets.","A user-friendly UI designed for seamless money transfers. Simplify your transactions with an intuitive interface, ensuring speedy and hassle-free financial exchanges.","A concept app for Sign Up and Sign In UI connected with api's.","Its my resturent appication, web app and desktop application also. A food ordering app, the whole design I developed here is an inspiration for me."],t.s)
-B.mc=s(["https://play.google.com/store/apps/maintanence-app","hhttps://apps.apple.com/us/app/chirosimple/id6447552533","https://play.google.com/store/apps/walk-tg","https://play.google.com/store/apps/",u.g,"https://apps.apple.com/in/app/taxcorp-australia/id6471902666","https://play.google.com/store/apps/","https://www.apple.com/app-store/lingaumanta",u.g,"https://together-38380.web.app/"],t.s)
 B.EF=s(["TriTech Solutions","Freelance","Autop Pty Ltd","Extendztech LLC"],t.s)
 B.lU=new A.ct(58136,"MaterialIcons",null,!1)
 B.CQ=new A.ct(58530,"MaterialIcons",null,!1)
 B.CN=new A.ct(58307,"MaterialIcons",null,!1)
-B.md=s([B.lU,B.CQ,B.CN],t.G1)
+B.mc=s([B.lU,B.CQ,B.CN],t.G1)
 B.EG=s(["Flutter Developer","Freelance Flutter Developer","Flutter Engineer","Flutter Intern"],t.s)
-B.me=s(["HOME","ABOUT","SERVICES","EXPERIENCE","PROJECTS","CONTACT"],t.s)
+B.md=s(["HOME","ABOUT","SERVICES","EXPERIENCE","PROJECTS","CONTACT"],t.s)
 B.FH=new A.nG("en",null,"US")
-B.mf=s([B.FH],t.ss)
-B.mg=s(["Location","Phone","Email"],t.s)
-B.mh=s(["A networking app for tech professionals \u2014 discover events, connect with peers, and chat in real time, built in Flutter. I developed it end to end from backend to frontend, moved it to production, and still handle its maintenance.","Chiropractic practice-management app rated 5.0 on the App Store. Offline-first patient records, appointments, and SOAP notes. I worked on Google Play and Stripe payments, built and deployed the admin panel end to end, and fixed bugs on the app side.","A step-tracking and walking-rewards app \u2014 daily goals, history, and progress rings, built in Flutter. I worked on the animations, Stripe payments, backend, chats, notifications, and maps.","Trade-X is an trading signals app which give signals to different coins.","This app simplifies their product management, sales tracking, and invoicing processes.","Taxcorp Australia an Online Tax Agent.","Not Much, All services on your finger tips.","Language learning application that can help you while traveling different countries.","An app that can guide you while traveling in different cities of Pakistan using Google Maps.","Together \u2013 a full-stack social media app featuring authentication, profiles, posts, likes, comments, follows, search, and theming, built from scratch using Flutter with BLoC state management and Firebase backend."],t.s)
+B.me=s([B.FH],t.ss)
+B.mf=s(["Location","Phone","Email"],t.s)
+B.mg=s(["A networking app for tech professionals \u2014 discover events, connect with peers, and chat in real time, built in Flutter. I developed it end to end from backend to frontend, moved it to production, and still handle its maintenance.","Chiropractic practice-management app rated 5.0 on the App Store. Offline-first patient records, appointments, and SOAP notes. I worked on Google Play and Stripe payments, built and deployed the admin panel end to end, and fixed bugs on the app side.","A step-tracking and walking-rewards app \u2014 daily goals, history, and progress rings, built in Flutter. I worked on the animations, Stripe payments, backend, chats, notifications, and maps.","Trade-X is an trading signals app which give signals to different coins.","This app simplifies their product management, sales tracking, and invoicing processes.","Taxcorp Australia an Online Tax Agent.","Not Much, All services on your finger tips.","Language learning application that can help you while traveling different countries.","An app that can guide you while traveling in different cities of Pakistan using Google Maps.","Together \u2013 a full-stack social media app featuring authentication, profiles, posts, likes, comments, follows, search, and theming, built from scratch using Flutter with BLoC state management and Firebase backend."],t.s)
 B.QS=new A.kn(0,0)
 B.QX=new A.kn(1,0.05)
 B.QV=new A.kn(3,0.08)
 B.QW=new A.kn(6,0.11)
 B.QU=new A.kn(8,0.12)
 B.QT=new A.kn(12,0.14)
-B.mi=s([B.QS,B.QX,B.QV,B.QW,B.QU,B.QT],A.av("y<kn>"))
+B.mh=s([B.QS,B.QX,B.QV,B.QW,B.QU,B.QT],A.av("y<kn>"))
 B.FG=s(["Deployment","Cloud Functions","Concept to Deployment","Payment Integration"],t.s)
 B.ED=s(["Firebase","REST APIs","Real-time Chat","Push Notifications","Clean Code"],t.s)
 B.Ex=s(["BLoC","Clean Architecture","Modular Code","Crypto Platform"],t.s)
 B.DP=s(["Flutter Widgets","Layout Techniques","Responsive Design","Performance Optimization"],t.s)
 B.EQ=s([B.FG,B.ED,B.Ex,B.DP],A.av("y<K<q>>"))
-B.mj=s(["assets/apps/maintanence-app.png","assets/apps/chirosimple.jpg","assets/apps/walk-tg.png","assets/apps/tradex.png","assets/apps/bata.png","assets/apps/tax-corp-logo.png","assets/apps/not-much-logo.png","assets/apps/linguamanta-logo.jpg","assets/apps/tourism-pakistan-logo.jpg","assets/apps/together-logo.png"],t.s)
+B.mi=s(["assets/apps/maintanence-app.png","assets/apps/chirosimple.jpg","assets/apps/walk-tg.png","assets/apps/tradex.png","assets/apps/bata.png","assets/apps/tax-corp-logo.png","assets/apps/not-much-logo.png","assets/apps/linguamanta-logo.jpg","assets/apps/tourism-pakistan-logo.jpg","assets/apps/together-logo.png"],t.s)
 B.ER=s([-1,0,0,1,0,0,-1,0,1,0,0,0,-1,1,0,1,1,1,1,0],t.n)
 B.ES=s(["https://tritech.com.pk/","","https://www.autop.online/","https://www.extendztech.com/"],t.s)
 B.iw=s(["https://tritech.com.pk/","https://www.cusit.edu.pk/","https://www.autop.online/","https://www.internee.pk/","https://www.encoderbytes.com/","https://www.extendztech.com/","https://www.growintern.com/"],t.s)
@@ -76439,7 +76438,7 @@ B.xi=new A.yZ(0,"left")
 B.xj=new A.yZ(1,"right")
 B.EU=s([B.xi,B.xj],A.av("y<yZ>"))
 B.ix=s(["assets/work/ttt.jpg","assets/work/cusit.png","assets/work/autop.png","assets/work/internee.jpg","assets/work/encoder.png","assets/work/extendztech.jpg","assets/work/growintern.png"],t.s)
-B.mk=s(["Mobile App Development","UI/UX to Life","Rapid Prototyping","iOS and Desktop Development","Open Source - GitHub"],t.s)
+B.mj=s(["Mobile App Development","UI/UX to Life","Rapid Prototyping","iOS and Desktop Development","Open Source - GitHub"],t.s)
 B.aH=new A.z1(0,"upstream")
 B.p=new A.z1(1,"downstream")
 B.EV=s([B.aH,B.p],A.av("y<z1>"))
@@ -76477,8 +76476,9 @@ B.Cu=new A.G6(null)
 B.F5=s([B.CC,B.ye,B.Ki,B.Cj,B.yr,B.Jg,B.Bn,B.Cu],t.p)
 B.F6=s(["assets/projects/newsappB.png","assets/projects/linkedinB.png","assets/projects/todoappB.png","assets/projects/mytasksB.png","assets/projects/covidB.png"],t.s)
 B.iz=s([60,60,60,90,60,70,60],t.n)
-B.ml=s(["Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!","Modern UI to life\n- Adobe XD\n- Mobile & Web\n- Figma\n- Responsiveness\n- Complex design to flutter app and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","iOS and Desktop Development\n- UI/UX\n- Cross-platform\n- App Store\n- Multiple desktop devices and many more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.s)
+B.mk=s(["Android app development via Flutter\n- Splash Screen\n- Firebase Auth/Cloud\n- REST APIs\n- Maps integration and more...!","Modern UI to life\n- Adobe XD\n- Mobile & Web\n- Figma\n- Responsiveness\n- Complex design to flutter app and more..!","Rapid Prototype via Flutter\n- Working MVP\n- Quick & Working prototype","iOS and Desktop Development\n- UI/UX\n- Cross-platform\n- App Store\n- Multiple desktop devices and many more..!","Open source GitHub Projects\n- Awesome README.md\n- Well documented\n- Header images and more...!"],t.s)
 B.F8=s(["click","scroll"],t.s)
+B.ml=s(["https://play.google.com/store/apps/maintanence-app","https://apps.apple.com/us/app/chirosimple/id6447552533","https://play.google.com/store/apps/walk-tg","https://play.google.com/store/apps/",u.g,"https://apps.apple.com/in/app/taxcorp-australia/id6471902666","https://play.google.com/store/apps/","https://www.apple.com/app-store/lingaumanta",u.g,"https://together-38380.web.app/"],t.s)
 B.yY=new A.po()
 B.jd=new A.Jw(1,"page")
 B.je=new A.fd(B.aC,B.jd)
