@@ -1,6 +1,6 @@
 {
     "name": "Aziz Ur Rahman",
-    "email": "azixkhan.55@gmail.com",
+    "email": "azix.codes@gmail.com",
     "subtitles": [
         "Flutter Developer",
         "A Friend :)",
@@ -35,7 +35,7 @@
         }
     ],
     "aboutMeHeadline": "I'm Aziz Ur Rahman, a Flutter developer and UI/UX Designer.",
-    "aboueMeDetails": "A Highly motivated Software Engineering student with a passion for mobile app development using Flutter and Dart. Proficient in object-oriented programming and data structures. Passionate about creating efficient and innovative solutions to meet user needs. Committed to delivering high-quality projects and continuously learning and adapting new technologies. I have been developing mobile apps for over 6 months now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Currently working as junior flutter developer at ExtendZtech.",
+    "aboueMeDetails": "A Highly motivated Software Engineering student with a passion for mobile app development using Flutter and Dart. Proficient in object-oriented programming and data structures. Passionate about creating efficient and innovative solutions to meet user needs. Committed to delivering high-quality projects and continuously learning and adapting new technologies. I have been developing mobile apps for over 3 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Currently working as junior flutter developer at ExtendZtech.",
     "technologies": [
         "Flutter",
         "Dart",
@@ -152,7 +152,7 @@
         },
         {
             "param": "email",
-            "value": "azixkhan.55@gmail.com"
+            "value": "azix.codes@gmail.com"
         }
     ]
 }
