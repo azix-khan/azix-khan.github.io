@@ -5,7 +5,7 @@ const CACHE_NAME = 'flutter-app-cache';
 
 const RESOURCES = {"index.html": "3fe185216906d74bc44f189e41a8c50a",
 "/": "3fe185216906d74bc44f189e41a8c50a",
-"flutter_bootstrap.js": "5659d612d1098de77e462c6455850cae",
+"flutter_bootstrap.js": "cf4b52495463ed5d260a3414dac7fa21",
 "robots.txt": "0f40686351b00e94dd89a7070f023599",
 "canvaskit/skwasm_heavy.js.symbols": "0755b4fb399918388d71b59ad390b055",
 "canvaskit/skwasm_heavy.js": "740d43a6b8240ef9e23eed8c48840da4",
@@ -103,7 +103,7 @@ const RESOURCES = {"index.html": "3fe185216906d74bc44f189e41a8c50a",
 "assets/AssetManifest.bin": "3d317ba335acddf2c3b22cd66d585e78",
 "assets/AssetManifest.bin.json": "f2955bc31207c99cf280096885aeaf30",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
-"assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Brands-Regular-400.otf": "f72ee0036c999c82d9d8b89675068d2d",
+"assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Brands-Regular-400.otf": "71faf8e5b68cd8b5d14b9cd2542ae750",
 "assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Regular-400.otf": "46be639d952abe98effde36da35e7701",
 "assets/packages/font_awesome_flutter/lib/fonts/Font-Awesome-7-Free-Solid-900.otf": "bfc2e2a6b0a352094f3bb04ceaa12f9b",
 "flutter.js": "24bc71911b75b5f8135c949e27a2984e",
@@ -115,7 +115,7 @@ const RESOURCES = {"index.html": "3fe185216906d74bc44f189e41a8c50a",
 "google2ba9c890cc843c11.html": "68c364a8719dd4d112903afae9139e50",
 "version.json": "48345a1c142d52f3e9f1bcad806aa487",
 "sitemap.xml": "95aecb8d2e8a8b0f919b6ef2e6d3cea8",
-"main.dart.js": "a8b5b55a77b56c26c80ce2b9ea60b3a1"};
+"main.dart.js": "b279ad882fa57172b62215fec39db00b"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
